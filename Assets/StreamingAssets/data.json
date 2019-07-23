@@ -1,0 +1,49 @@
+{
+    "abilityData": [
+        {
+            "id": 0,
+            "name": "",
+            "description": "",
+            "cost": 0,
+            "costType": "",
+            "targetType": "",
+            "effects": []
+        },
+        {
+            "id": 0,
+            "name": "",
+            "description": "",
+            "cost": 0,
+            "costType": "",
+            "targetType": "",
+            "effects": []
+        },
+        {
+            "id": 0,
+            "name": "",
+            "description": "",
+            "cost": 0,
+            "costType": "",
+            "targetType": "",
+            "effects": []
+        },
+        {
+            "id": 0,
+            "name": "",
+            "description": "",
+            "cost": 0,
+            "costType": "",
+            "targetType": "",
+            "effects": []
+        },
+        {
+            "id": 0,
+            "name": "",
+            "description": "",
+            "cost": 0,
+            "costType": "",
+            "targetType": "",
+            "effects": []
+        }
+    ]
+}

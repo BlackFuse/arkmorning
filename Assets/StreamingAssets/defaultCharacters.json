@@ -1,0 +1,64 @@
+{
+    "Items": [
+        {
+            "id": 0,
+            "name": "",
+            "description": "",
+            "MaxHP": 0,
+            "energy": 0,
+            "MaxEnegy": 0,
+            "speed": 0,
+            "attack": 0,
+            "allowedAbilitiesID": [1,2,3,4],
+            "carriedAbilities": []
+        },
+        {
+            "id": 0,
+            "name": "",
+            "description": "",
+            "MaxHP": 0,
+            "energy": 0,
+            "MaxEnegy": 0,
+            "speed": 0,
+            "attack": 0,
+            "allowedAbilitiesID": [],
+            "carriedAbilities": []
+        },
+        {
+            "id": 0,
+            "name": "",
+            "description": "",
+            "MaxHP": 0,
+            "energy": 0,
+            "MaxEnegy": 0,
+            "speed": 0,
+            "attack": 0,
+            "allowedAbilitiesID": [],
+            "carriedAbilities": []
+        },
+        {
+            "id": 0,
+            "name": "",
+            "description": "",
+            "MaxHP": 0,
+            "energy": 0,
+            "MaxEnegy": 0,
+            "speed": 0,
+            "attack": 0,
+            "allowedAbilitiesID": [],
+            "carriedAbilities": []
+        },
+        {
+            "id": 0,
+            "name": "",
+            "description": "",
+            "MaxHP": 0,
+            "energy": 0,
+            "MaxEnegy": 0,
+            "speed": 0,
+            "attack": 0,
+            "allowedAbilitiesID": [],
+            "carriedAbilities": []
+        }
+    ]
+}

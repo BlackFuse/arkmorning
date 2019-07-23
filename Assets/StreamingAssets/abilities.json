@@ -1,0 +1,49 @@
+{
+    "Items": [
+        {
+            "id": 1,
+            "name": "Test_1",
+            "description": "This is the test ability_1",
+            "cost": 1,
+            "costType": "",
+            "targetType": "",
+            "effects": []
+        },
+        {
+            "id": 2,
+            "name": "Test_2",
+            "description": "This is the test ability_2",
+            "cost": 2,
+            "costType": "",
+            "targetType": "",
+            "effects": []
+        },
+        {
+            "id": 3,
+            "name": "Test_3",
+            "description": "This is the test ability_3",
+            "cost": 3,
+            "costType": "",
+            "targetType": "",
+            "effects": []
+        },
+        {
+            "id": 4,
+            "name": "Test_4",
+            "description": "This is the test ability_4",
+            "cost": 4,
+            "costType": "",
+            "targetType": "",
+            "effects": []
+        },
+        {
+            "id": 5,
+            "name": "Test_5",
+            "description": "This is the test ability_5",
+            "cost": 5,
+            "costType": "",
+            "targetType": "",
+            "effects": []
+        }
+    ]
+}
